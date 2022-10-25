@@ -1,0 +1,6 @@
+/home/ricky/WindowsFormsApp/WindowsFormsApp/obj/Debug/WindowsFormsApp.Form1.resources
+/home/ricky/WindowsFormsApp/WindowsFormsApp/obj/Debug/WindowsFormsApp.Properties.Resources.resources
+/home/ricky/WindowsFormsApp/WindowsFormsApp/bin/Debug/WindowsFormsApp.pdb
+/home/ricky/WindowsFormsApp/WindowsFormsApp/bin/Debug/WindowsFormsApp.exe
+/home/ricky/WindowsFormsApp/WindowsFormsApp/obj/Debug/WindowsFormsApp.exe
+/home/ricky/WindowsFormsApp/WindowsFormsApp/obj/Debug/WindowsFormsApp.pdb

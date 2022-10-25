@@ -1,0 +1,7 @@
+c:\users\nn\documents\visual studio 2012\Projects\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+c:\users\nn\documents\visual studio 2012\Projects\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+c:\users\nn\documents\visual studio 2012\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+c:\users\nn\documents\visual studio 2012\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+c:\users\nn\documents\visual studio 2012\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+c:\users\nn\documents\visual studio 2012\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+c:\users\nn\documents\visual studio 2012\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
